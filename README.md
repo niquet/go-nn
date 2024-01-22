@@ -22,6 +22,16 @@ func main() {
 }
 ```
 
+## Go basics
+
+### Variables
+- Variables allow you to read from and write to memory [3]
+- 
+
+- 
+- In Go, accessing memory is type-safe, and you cannot use variables outside the scope of their declaration [3]
+- 
+
 ## Go basics (Packages, variables, and functions)
 
 ### Packages
@@ -606,3 +616,5 @@ func main() {
 ## References
 - [1] https://go.dev/tour/basics/
 - [2] https://go.dev/tour/flow/
+- [3] https://tour.ardanlabs.com/tour/eng/variables/1
+- 
